@@ -1,11 +1,15 @@
 123.118
 
-第3个commit rebase了
+第3个commit
+rebase了
 
 第4个commit
 rebase了
 
+合并成一个commit
 
+测试不要合并
 第3个commit
-amend
+--amend
 第4个commit
+commit
